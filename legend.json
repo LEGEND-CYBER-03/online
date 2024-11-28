@@ -1,10 +1,10 @@
 {
-    "serverstatus":"true",
-    "noticemode":"true",
+    "serverstatus":"false",
+    "noticemode":"false",
     "dataclearmode":"false",
-    "servermeassage":"Wait We Are Working On a new Update !",
+    "servermeassage":"MOD SERVER BAND HO GYA SILENT KA LO**DA KHELOGE!",
     "opentime":" Just wait",
     "libs":"https://github.com/LEGEND-CYBER-03/online/raw/refs/heads/main/legend.zip",
-    "notice_title":"Bsdk koi Feedback nahi de raha jaldi Feedback do",
+    "notice_title":"Bsdk koi Feedback nahi de raha jaldi Feedback bhejo",
     "notice_body":""
 }

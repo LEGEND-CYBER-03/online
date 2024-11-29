@@ -1,8 +1,8 @@
 {
-    "serverstatus":"true",
-    "noticemode":"true",
+    "serverstatus":"false",
+    "noticemode":"false",
     "dataclearmode":"false",
-    "servermeassage":"Wait We Are Working On a new Update !",
+    "servermeassage":"SERVER SLEEP NEVER ON NO FEEDBACK NEED!",
     "opentime":" Just wait",
     "libs":"https://github.com/LEGEND-CYBER-03/online/raw/refs/heads/main/legend.zip",
     "notice_title":"Silent Devloper Bolte",

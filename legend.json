@@ -1,8 +1,8 @@
 {
-    "serverstatus":"true",
-    "noticemode":"true",
+    "serverstatus":"false",
+    "noticemode":"false",
     "dataclearmode":"false",
-    "servermeassage":"SERVER OFF HAI OK PUBLIC MOD!",
+    "servermeassage":"DM TO BY PAID SERVER!",
     "opentime":"",
     "libs":"https://github.com/LEGEND-CYBER-03/online/raw/refs/heads/main/legend.zip",
     "notice_title":"ONLINE UPDATE SUCCESSFULLY",
